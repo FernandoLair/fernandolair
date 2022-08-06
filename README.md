@@ -69,9 +69,9 @@ Reach me out 👇🏼
 <a href="https://www.instagram.com/fernandomartinslair/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Fernandolair-05122A?style=flat&logo=instagram" alt="instagram"/>
  </a>
-  <a href="ttps://www.youtube.com/channel/UCvk2g86-1U36bFeWfHeGkDw" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Fernandolair-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+<a href="https://www.youtube.com/channel/UCvk2g86-1U36bFeWfHeGkDw" target=" target="_blank">
+<img src="https://img.shields.io/badge/-Fernandolair-05122A?style=flat&logo=youtube" alt="youtube"/>
+ </a>
 <!--**<a href="seu link do linkdin" target="_blank">-->
 <!--**<img align="center" src="https://img.shields.io/badge/-Fernandolair-05122A?style=flat&logo=linkedin" alt="linkedin"/>-->
  </a>
